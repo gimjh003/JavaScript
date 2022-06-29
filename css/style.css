@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+.title{
+    color: royalblue;
+    transition: all 0.5s ease;
+}
+
+.clicked{
+    color: tomato;
+}
+
+.hidden{
+    display: none;
+}
